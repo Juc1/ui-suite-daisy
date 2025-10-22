@@ -53,6 +53,7 @@
         "drupal/twig_tweak": "^3.2.0",
         "drupal/type_tray": "^1.2",
         "drupal/ui_icons": "^1",
+        "drupal/ui_patterns": "^2.0",
         "drupal/ui_patterns_paragraphs": "^1.0@alpha",
         "drupal/ui_skins": "^1.1@alpha",
         "drupal/ui_suite_daisyui": "^5.0@alpha",
